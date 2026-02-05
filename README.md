@@ -1,5 +1,5 @@
 # Smart Relationship Navigator
-- 2025-2 오픈소스SW 전공수업에서 진행한 프로젝트입니다.
+- 2025-2 전공수업(오픈소스SW)에서 진행한 프로젝트입니다.
 
 지도 기반 커플 데이트 추천 플랫폼입니다. FastAPI 백엔드와 네이티브 JavaScript 프런트엔드를 사용하며, Docker 및 Kubernetes 환경에서 실행할 수 있도록 구성되어 있습니다.
 
